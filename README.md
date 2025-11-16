@@ -6,13 +6,10 @@
 
 ---
 
-## 🛠 Технологии и стек
+| Технологии |
+|---|
+| ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
 
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
