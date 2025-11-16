@@ -1,12 +1,33 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+
       - uses: actions/checkout@v3
+
 
       - name: Generate GitHub Stats
         run: |
           curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=ssokov&show_icons=true&theme=tokyonight&count_private=true&access_token=${{ secrets.GH_STATS_TOKEN }}"
+
+
+      - name: Check stats.svg
+        run: |
+          ls -lh stats.svg
+          head -n 10 stats.svg
+
 
       - name: Commit and push stats
         run: |
