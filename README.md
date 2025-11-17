@@ -15,7 +15,7 @@
 
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 - **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests (Go, PostgreSQL, Swagger, CI/CD).
 - **ludomania** — Telegram inline bot with interactive game logic.  
@@ -37,7 +37,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
