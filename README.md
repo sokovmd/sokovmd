@@ -29,17 +29,17 @@
 ## Projects
 
 - **pr-reviewer-service** — Microservice that automatically assigns reviewers to pull requests  
-  _Technologies:_ Go, Echo, PostgreSQL, CI
+  _Tech Stack:_ Go, Echo, PostgreSQL, CI
 - **ludomania** — Telegram inline bot with interactive game logic  
-  _Technologies:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
+   _Tech Stack:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
 - **go-pipeline** — Data-processing pipeline with concurrency (VK Education)  
-  _Technologies:_ Go
+   _Tech Stack:_ Go
 - **tg-digest** — Telegram bot generating scheduled digests  
-  _Technologies:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
+   _Tech Stack:_ Telegram Bot API, PostgreSQL, [vmkteam stack](https://github.com/vmkteam)
 - **logs-hub-backend** — Backend for aggregating logs from Telegram bots  
-  _Technologies:_ Go, PostgreSQL, CI/CD, [vmkteam stack](https://github.com/vmkteam)
+   _Tech Stack:_ Go, PostgreSQL, CI/CD, [vmkteam stack](https://github.com/vmkteam)
 - **Pool-Allocator** — Custom memory pool allocator  
-  _Technologies:_ C++
+   _Tech Stack:_ C++
 
 ---
 
