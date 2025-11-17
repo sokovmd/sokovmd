@@ -46,7 +46,3 @@
 </table>
 
 
-## 📫 Contact
-
-- Telegram: [@Msokovv](https://t.me/Msokovv)  
-- Email: sokovykh.work@gmail.com
