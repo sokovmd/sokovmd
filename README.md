@@ -5,6 +5,11 @@
   <a href="https://t.me/Msokovv">@Msokovv</a>
 </div> 
 <div>✉️ sokovykh.work@gmail.com</div>
+<div style="display: flex; align-items: center; gap: 5px;">
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/google-docs.png" width="17" style="transform: translateY(2px);">
+  <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Резюме (Google Docs)</a>
+</div>
+
 
 
 
