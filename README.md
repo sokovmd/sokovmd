@@ -2,13 +2,13 @@
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
-    <a href="https://t.me/Msokovv" target="_blank">Telegram: @Msokovv</a>
+    Резюме: <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Google Docs</a>
   </div>
   <div>
-    <a href="mailto:sokovykh.work@gmail.com">Email: sokovykh.work@gmail.com</a>
+    Email: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
   </div>
   <div>
-    <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Резюме: Google Docs</a>
+    Telegram: <a href="https://t.me/Msokovv" target="_blank">@Msokovv</a>
   </div>
 </div>
 
