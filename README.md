@@ -1,12 +1,13 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
-<div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="17" style="transform: translateY(20px);">
-  <a href="https://t.me/Msokovv">@Msokovv</a>
-</div> 
-<div>✉️ sokovykh.work@gmail.com</div>
-<div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/google-docs.png" width="17" style="transform: translateY(2px);">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="17" style="transform: translateY(2px);">
+  <a href="https://t.me/Msokovv" target="_blank">@Msokovv</a>
+
+  <span>✉️</span>
+  <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
+
+  <img src="https://img.icons8.com/color/48/000000/google-docs.png" width="17" style="transform: translateY(2px);">
   <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Резюме (Google Docs)</a>
 </div>
 
