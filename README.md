@@ -1,11 +1,10 @@
 ## **Golang Developer · ITMO University · 2nd-year Student**
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: grid; gap: 5px;">
   <a href="https://t.me/Msokovv" target="_blank">Telegram: @Msokovv</a>
   <a href="mailto:sokovykh.work@gmail.com">Email: sokovykh.work@gmail.com</a>
   <a href="https://drive.google.com/file/d/1V3s-lcZGmLDuhViyOA9K-XDdtDdCQ68K/view?usp=sharing" target="_blank">Резюме: Google Docs</a>
 </div>
-
 
 
 
