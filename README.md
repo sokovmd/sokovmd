@@ -37,7 +37,10 @@
     _Tech Stack:_ Go, PostgreSQL, Docker, HTML/JS                                                                                                                                                                         
                                                                                                                                                                                                                           
 - **[ludomania](https://github.com/kroexov/ludomania)** — Telegram inline bot with interactive gambling game logic for ITMO community                                                                                   
-    _Tech Stack:_ Go, Telegram Bot API, PostgreSQL, Docker                                                                                                                                                                
+    _Tech Stack:_ Go, Telegram Bot API, PostgreSQL, Docker
+
+- **[pr-reviewer-service](https://github.com/sokovykh-md/pr-reviewer-service)** — Microservice for automatic PR reviewer assignment with REST API                                                                       
+    _Tech Stack:_ Go, Echo, PostgreSQL, go-pg, Genna, Swagger, Docker, CI/CD  
                                                                                                                                                                                                                           
 - **[go-concurrency-patterns](https://github.com/sokovykh-md/go-concurrency-patterns)** — Collection of idiomatic Go concurrency patterns: fan-in/fan-out, worker pool, semaphore, rate limiting, and more              
     _Tech Stack:_ Go, Generics                                                                                                                                                                                            
@@ -47,6 +50,8 @@
                                                                                                                                                                                                                           
 - **[go-pipeline](https://github.com/sokovykh-md/go-pipeline)** — Concurrent data processing pipeline with Unix pipe semantics (VK Education)                                                                           
     _Tech Stack:_ Go
+  
+ 
 
 
 
