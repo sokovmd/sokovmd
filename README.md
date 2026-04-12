@@ -8,7 +8,7 @@
     Почта: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
   </div>
   <div>
-    Телеграм: <a href="https://t.me/Msokovv" target="_blank">@Msokovv</a>
+    Телеграм: <a href="https://t.me/sokovykh_md" target="_blank">@sokovykh_md</a>
   </div>
 </div>
 
