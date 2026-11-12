@@ -2,9 +2,6 @@
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
-    Resume [RU version]: <a href="https://drive.google.com/file/d/1BoUVKKuB01VP5jGMupSEIFvWR7S8rOeq/view?usp=sharing" target="_blank">Google Docs</a>
-  </div>
-  <div>
     Email: <a href="mailto:sokovykh.work@gmail.com">sokovykh.work@gmail.com</a>
   </div>
   <div>
