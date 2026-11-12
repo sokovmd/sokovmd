@@ -1,4 +1,4 @@
-## **Golang / ML Ops T-bank · ITMO University · 3nd-year Student**
+## **Golang / ML Ops · ITMO University · 3nd-year Student**
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
